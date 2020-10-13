@@ -1,0 +1,20 @@
+{
+  "name": "four-semesters-of-cs",
+  "version": "1.0.0",
+  "description": "Welcome to the code behind the [course website](http://btholt.github.io/four-semesters-of-cs/) for the [Four Semesters of Computer Science in 5 Hours](https://frontendmasters.com/courses/computer-science/) course on Frontend Masters.",
+  "main": "pres.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewwbolton/four-semesters-of-cs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewwbolton/four-semesters-of-cs/issues"
+  },
+  "homepage": "https://github.com/matthewwbolton/four-semesters-of-cs#readme"
+}
